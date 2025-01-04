@@ -9,9 +9,6 @@ This repository contains the **Resume Optimization Tool**, a machine-learning-ba
 - [Implementation](#implementation)
 - [Results](#results)
 - [Future Work](#future-work)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
