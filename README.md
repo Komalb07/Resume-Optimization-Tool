@@ -49,7 +49,6 @@ A fabricated dataset of over 62,000 records was created, enriched with:
 ### Technologies Used:
 - Python (Pandas, NumPy, Scikit-learn, XGBoost)
 - Natural Language Processing (TF-IDF, regex)
-- Data Visualization (Matplotlib, Seaborn)
 
 ## Results
 
